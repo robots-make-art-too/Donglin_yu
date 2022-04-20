@@ -1,0 +1,11 @@
+venv for python environments
+https://medium.com/co-learning-lounge/create-virtual-environment-python-windows-2021-d947c3a3ca78
+
+anaconda if it helps more than pip
+https://www.anaconda.com/products/individual
+
+pip commands windows/linux/mac
+https://pip.pypa.io/en/stable/cli/pip/
+
+Python Interpreter in VSCode
+https://python.plainenglish.io/how-to-set-default-python-interpreter-in-vs-code-76c38c210dc3
